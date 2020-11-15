@@ -1,0 +1,32 @@
+html, body, h1,h2,h3, h4,h5, h6{
+    font-family: "Roboto", sans-serif;
+}
+
+.lembar{
+	margin: 0 auto;
+	width: 85%;
+}
+
+@media screen and (max-width: 960px) {
+	.lembar{
+		width: 100%;
+	}
+}
+
+div.w3-content.w3-margin-top{
+    max-width: 1400px;
+}
+.my-foto{
+    width: 100%;
+    padding: 10px;
+    margin: 1px;
+
+}
+
+.name{
+    text-transform: uppercase;
+}
+
+.my-footer{
+    padding-bottom: 20px;
+}
